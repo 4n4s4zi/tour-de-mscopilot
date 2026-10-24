@@ -1,6 +1,6 @@
 # Tour-de-mscopilot
 
-Post-ex techniques and attack surface exploration of the Microsoft Copilot app on Windows
+Post-ex techniques and attack surface exploration of the Microsoft Copilot app on Windows.
 
 Note this was written over the course of a few months when I was curious about it so the techniques could be patched or lose applicability over time. Full writeup is [here](https://gr3ko.dev/muses/tour-de-mscopilot/readme.html). 
 
